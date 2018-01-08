@@ -1,0 +1,30 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.add,
+.fresh,
+.devored {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.order {
+    width: 50%
+}
+
+.button-raised.button-royal {
+    background: black;
+    border-color: black;
+    width: 50%;
+}
+
+#burgerName {
+    width: 45%;
+}
